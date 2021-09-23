@@ -3,7 +3,7 @@ Feature: One passing and one failing scenario
 
 @a
 Scenario: This is Scenario 1
-Given this step passes 
+Given this step passes chnages are made
 And this step passes
 Given this step passes
 And this step passes
